@@ -1,6 +1,6 @@
 from turtle import*
-color('green')
-bgcolor('black')
+color('black')
+bgcolor('red')
 speed(11)
 hideturtle()
 b=0
